@@ -166,3 +166,4 @@ Steps:
 5.1 Refine state with EntityState and Adapters
 6. Create selectors (queries)
 6.1 Use selector in the UI component
+7.(optimization) Entity Data Model <TO-DO>
