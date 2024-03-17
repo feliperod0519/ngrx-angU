@@ -156,3 +156,13 @@ If you are looking for the Complete Typescript 2 Course - Build a REST API, the 
 
 ![Complete Typescript Course](https://angular-academy.s3.amazonaws.com/thumbnails/typescript-2-small.png)
 
+Steps:
+1. Create Actions
+2. Reduces (action-types.ts)
+3. (Opt) Resolver (routing resolver)... only gets the route if the data is rendered from back-end
+3.1 Add to routing section of feature module
+4. Create Effects (Fetch data) create some if you need to group them
+5. Reducers (state)
+5.1 Refine state with EntityState and Adapters
+6. Create selectors (queries)
+6.1 Use selector in the UI component
